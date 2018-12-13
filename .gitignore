@@ -1,8 +1,7 @@
 *.iml
 .gradle
+.idea
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
 .DS_Store
 /build
 /captures
@@ -44,7 +43,6 @@ captures/
 
 # Intellij
 *.iml
-.idea/workspace.xml
 
 local.properties
 # Keystore files
@@ -57,3 +55,4 @@ node_modules
 package-lock.json
 package.json
 
+.idea/kotlinc.xml
